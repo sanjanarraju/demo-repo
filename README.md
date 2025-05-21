@@ -53,7 +53,7 @@ git pull    (update local version of repo to the remote)
 
 git commit -am "your message"    (this only works for files you modified)  (this command adds and commits at the same time)
 
-git checkout -d "name"    (deletes the branch)
+git branch -d "name"    (deletes the branch)
 
 
 ## Undoing in Git
