@@ -84,7 +84,7 @@ git reset --hard "the hash"   (not just unstages the changes but completely remo
 
 ## Forking
 
-click on the fork button on github, to access other repos you don't have access to, so you can make updates or changes
+click on the fork button on github to access other repos you don't have access to, so you can make updates or changes
 
 
 
