@@ -47,4 +47,6 @@ git checkout -b feature- (name) --> EX: git checkout -b feature-readme-instructi
 
 git checkout main  (switched back to "main" branch)
 
+git commit -am "your message"    (this only works for files you modified)  (this command adds and commits at the same time)
+
 
